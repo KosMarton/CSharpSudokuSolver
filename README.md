@@ -1,5 +1,5 @@
 # CSharp Sudoku Solver
-A fast and simple sudoku solver.
+A fast and simple sudoku solver made with the CSharp language.
 
 ## How to use it?
 It is very simple. Just copy and paste the source code of `Program.cs` into your project and the code will work perfectly
