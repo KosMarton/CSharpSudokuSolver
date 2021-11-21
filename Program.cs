@@ -1,4 +1,7 @@
-﻿using System;
+﻿/** Copyright Márton Kós Hungary 2021. All Rights Reserved
+ * CSharp Sudoku solver code for any Integration */
+
+using System;
 
 namespace Sudoku
 {
